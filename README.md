@@ -1,5 +1,5 @@
 # OptiNav
-Easily find the best route in an array
+Easily find the best route in an array.  
 Create an instance of the class,  
 and run the OptimalNavigation function  
 The arguments are  
